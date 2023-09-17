@@ -580,7 +580,7 @@ body.dark-theme {
 
 .newsletter__data,
 .section__title {
-    color: #fff;
+      color: var(--title-color);
     margin-bottom: 2rem;
 }
 
